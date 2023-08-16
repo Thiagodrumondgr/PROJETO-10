@@ -76,7 +76,7 @@ nav >a:hover{
 
 }
 main{
-    min-width: 300px;
+    min-width: 320px;
     max-width: 800px;
     padding: 20px;
     margin: auto;
@@ -124,7 +124,7 @@ main a:hover{
 text-indent: 8px; 
 
 }
- main
+ main img
  {
     width: 100%;
  }
